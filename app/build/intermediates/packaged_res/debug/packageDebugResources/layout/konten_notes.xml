@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Layout utama untuk konten notes -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Judul Note (EditText untuk mengedit) -->
+        <EditText
+            android:id="@+id/etTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Judul Note"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp"
+            android:hint="Masukkan Judul" />
+
+        <!-- Isi Note (EditText untuk mengedit) -->
+        <EditText
+            android:id="@+id/etNoteContent"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:hint="Masukkan Isi Note"
+            android:lineSpacingExtra="4dp"
+            android:scrollbars="vertical"
+            android:gravity="top"
+            android:background="@null"
+            android:padding="8dp"
+            android:text="Isi dari note ini akan ditampilkan di sini."
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+    <!-- Tombol Floating untuk menyimpan perubahan -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabSaveNote"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        app:fabSize="normal"
+        app:srcCompat="@drawable/disket"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

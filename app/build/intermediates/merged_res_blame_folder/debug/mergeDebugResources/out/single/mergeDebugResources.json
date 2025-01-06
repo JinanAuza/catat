@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_regular.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_bold.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\layout_list_item_notes.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\layout\\list_item_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_thinitalic.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\thinitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_light.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\light.ttf"
+    },
+    {
+        "merged": "com.notes.catat.app-debug-31:/layout_konten_notes.xml.flat",
+        "source": "com.notes.catat.app-main-33:/layout/konten_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_lightitalic.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\lightitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\drawable_round_btn_2.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\drawable\\round_btn_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_thin.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\layout_menu_utama.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\layout\\menu_utama.xml"
+    },
+    {
+        "merged": "com.notes.catat.app-debug-31:/drawable_disket.png.flat",
+        "source": "com.notes.catat.app-main-33:/drawable/disket.png"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_medium.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_italic.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\font_black.ttf.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\font\\black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-debug-31:\\layout_konten_notes.xml.flat",
+        "source": "C:\\Users\\bal\\.gradle\\daemon\\8.4\\com.notes.catat.app-main-33:\\layout\\konten_notes.xml"
+    }
+]

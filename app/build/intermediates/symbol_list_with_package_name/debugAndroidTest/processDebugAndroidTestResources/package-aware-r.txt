@@ -1,0 +1,3 @@
+com.notes.catat.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
